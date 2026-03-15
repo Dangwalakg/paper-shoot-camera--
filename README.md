@@ -1,2 +1,2 @@
 # paper-shoot-camera--
-Arduino based button-triggered Paper Shoot style camera
+ESP32-CAM based camera system that captures images using a button trigger and saves them to an SD card
